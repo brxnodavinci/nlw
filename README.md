@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 🐦 Contato
 
-[@brxninbtw](twitter.com/brxninbtw)
+[@brxninbtw](https://twitter.com/brxninbtw)
